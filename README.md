@@ -1,2 +1,2 @@
 # linux_handle_signal
-c 
+在linux下處理信號
