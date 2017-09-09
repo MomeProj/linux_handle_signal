@@ -1,0 +1,11 @@
+# Travis CI script
+
+language: c
+
+compiler:
+  - clang
+  - gcc
+
+script:
+  gcc -o test main.c
+ 
